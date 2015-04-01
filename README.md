@@ -71,5 +71,7 @@ filename: Exploit_AFU.txt
 -   REFERENCE
 ------
 [1] http://pastebin.com/D07wPKmA
+
 [2] http://k3dsec.blogspot.com/2015/03/wordpress-plugin-inboundio-marketing.html
+
 [3] http://blog.inurl.com.br/2015/03/inurl-brasil-simple-shell-backdoor.html
